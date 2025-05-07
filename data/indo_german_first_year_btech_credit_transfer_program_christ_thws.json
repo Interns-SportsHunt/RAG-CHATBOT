@@ -1,0 +1,89 @@
+{
+  "course_title": "Indo-German First Year BTech Credit Transfer Program (CHRIST-THWS)",
+  "department": "School of Engineering and Technology",
+  "campus": [
+    "Bangalore Kengeri Campus"
+  ],
+  "syllabus_link": "https://christuniversity.in/School of Engineering and Technology/SCIENCES AND HUMANITIES (ENGINEERING)/Indo German First Year BTech Credit Transfer Program/syllabusstructure/5674449/2024",
+  "course_structure_link": "https://christuniversity.in/School of Engineering and Technology/SCIENCES AND HUMANITIES (ENGINEERING)/Indo German First Year BTech Credit Transfer Program/syllabusstructure/5674449/2024",
+  "fee_structure": [
+    {
+      "sn": "1",
+      "course_code": "HS136",
+      "course_title": "TECHNICAL ENGLISH",
+      "core/elective/ability_enhancement_course/_project": "Core",
+      "credits": "2",
+      "max_marks": "50"
+    },
+    {
+      "sn": "2",
+      "course_code": "HOLODD",
+      "course_title": "HOLISTIC EDUCATION",
+      "core/elective/ability_enhancement_course/_project": "Core",
+      "credits": "1",
+      "max_marks": "-"
+    },
+    {
+      "sn": "3",
+      "course_code": "CH132P",
+      "course_title": "CHEMISTRY",
+      "core/elective/ability_enhancement_course/_project": "Core",
+      "credits": "4",
+      "max_marks": "100"
+    },
+    {
+      "sn": "4",
+      "course_code": "CS134P",
+      "course_title": "COMPUTER PROGRAMMING",
+      "core/elective/ability_enhancement_course/_project": "Core",
+      "credits": "4",
+      "max_marks": "100"
+    },
+    {
+      "sn": "5",
+      "course_code": "ME135",
+      "course_title": "BASIC MECHANICAL ENGINEERING AND NANOSCIENCE",
+      "core/elective/ability_enhancement_course/_project": "Core",
+      "credits": "3",
+      "max_marks": "100"
+    },
+    {
+      "sn": "6",
+      "course_code": "EC133P",
+      "course_title": "BASIC ELECTRONICS",
+      "core/elective/ability_enhancement_course/_project": "Core",
+      "credits": "4",
+      "max_marks": "100"
+    },
+    {
+      "sn": "7",
+      "course_code": "MA131",
+      "course_title": "MATHEMATICS - I",
+      "core/elective/ability_enhancement_course/_project": "Core",
+      "credits": "3",
+      "max_marks": "100"
+    },
+    {
+      "sn": "8",
+      "course_code": "ME151",
+      "course_title": "WORKSHOP PRACTICE LAB",
+      "core/elective/ability_enhancement_course/_project": "Core",
+      "credits": "1",
+      "max_marks": "50"
+    },
+    {
+      "sn": "9",
+      "course_code": "GE137",
+      "course_title": "German Language A1 Equivalent (Optional course, registration upon additional payment)",
+      "core/elective/ability_enhancement_course/_project": "Audit Course",
+      "credits": "-",
+      "max_marks": "-"
+    }
+  ],
+  "eligibility": "Address:\nOffice of International Affairs (OIA), School of Engineering and Technology, Kengeri Campus, CHRIST (Deemed to be University) Bangalore 560074\nTelephone: +91 9164076123 / +91 8105678191\nEmail ID: christ-kengeri-ia@christuniversity.in",
+  "why_choose": null,
+  "what_learn": null,
+  "modules": null,
+  "career": null,
+  "source_url": "https://christuniversity.in/courses/bangalore-kengeri-campus/school-of-engineering-and-technology/sciences-and-humanities-(engineering)/indo-german-first-year-btech-credit-transfer-program"
+}

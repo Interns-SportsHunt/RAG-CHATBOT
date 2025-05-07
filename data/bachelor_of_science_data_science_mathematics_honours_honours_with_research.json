@@ -1,0 +1,53 @@
+{
+  "course_title": "Bachelor of Science (Data Science, Mathematics/Honours/Honours with Research)",
+  "department": "School of Sciences",
+  "campus": [
+    "Bangalore Central Campus"
+  ],
+  "syllabus_link": "https://christuniversity.in/School of Sciences/MATHEMATICS/BSc (Data Science, MathematicsHonoursHonours with Research)/syllabusstructure/5629079/2024",
+  "course_structure_link": "https://christuniversity.in/School of Sciences/MATHEMATICS/BSc (Data Science, MathematicsHonoursHonours with Research)/syllabusstructure/5629079/2024",
+  "fee_structure": [
+    {
+      "year": "1",
+      "#karnataka": "90,000 INR",
+      "other_indian_states": "110,000 INR",
+      "nri": "160,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "2,200 USD",
+      "other_foreign_nationals": "2,500 USD",
+      "time_of_payment": "Within seven days of the declaration of the Selection Process Result"
+    },
+    {
+      "year": "2",
+      "#karnataka": "90,000 INR",
+      "other_indian_states": "110,000 INR",
+      "nri": "160,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "2,200 USD",
+      "other_foreign_nationals": "2,500 USD",
+      "time_of_payment": "On or before March 15, 2026"
+    },
+    {
+      "year": "3",
+      "#karnataka": "90,000 INR",
+      "other_indian_states": "110,000 INR",
+      "nri": "160,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "2,200 USD",
+      "other_foreign_nationals": "2,500 USD",
+      "time_of_payment": "On or before March 15, 2027"
+    },
+    {
+      "year": "4",
+      "#karnataka": "120,000 INR",
+      "other_indian_states": "140,000 INR",
+      "nri": "200,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "3,000 USD",
+      "other_foreign_nationals": "4,000 USD",
+      "time_of_payment": "On or before March 15, 2028"
+    }
+  ],
+  "eligibility": "Pass at the +2 level (Karnataka PUC / ISC / CBSE / NIOS / State Boards) from any recognised Board in India.\nCandidates writing the +2 examinations in March-May 2025 may apply with their class X and XI marks.\nIt is compulsory to have studied (Mathematics) at Class XII level.\nStudents pursuing International curriculum must note that eligibility is according to AIU\nstipulations:\nApplicants pursuing IB curriculum must have 3 HL and 3 SL with 24 credits.\nApplicants pursuing GCE / Edexcel must have a minimum of 3 A levels with a grade not less than C.",
+  "why_choose": "Why choose this course? Tech-enabled team teaching Honours option in IV year Internship opportunities Research integrated curriculum Project inclusive curriculum Collaborative industry-academia syllabus advisory and interactions.",
+  "what_learn": "What you will learn? Mathematical and Data Science principles and methods for statistical inference Stay updated on current industrial trends. Using suitable Mathematical concepts and programming to assess real-world issues and accurately present experiment results. Improve skills as a statistician or data scientist for diverse career opportunities in science, government, finance, healthcare, tech, and more. To blend logical assumptions into scientific evidence for inferring data To model and extract knowledge from structured data",
+  "modules": "Modules Descriptive Statistics and Calculus and Programming Principles Computer fundamentals and programming principles with Python Year 1 Data structures and operating systems Algebra and differential calculus with  Statistical methods Database     management and Data visualisation Real analysis, Mathematical computations using Python + Linear modelling Year 2 Abstract Algebra and numerical methods Machine learning + Web Technology Neural networks and deep learning, web and cloud analytics + electives Linear algebra, Discrete Mathematics, and Graph Theory Year 3 Data Science honours - Artificial intelligence + electives Mathematics honours - Complex analysis = electives Projects - Data Science and Mathematics Data Science honours - Big data analysis + electives Statistics honours - Real analysis, Abstract Algebra, Ordinary Differential Calculus, and Discrete Mathematics Year 4 Research Methodology Data Science honours - Quantum ML Mathematics honours - Stochastic modelling, high dimensional statistics Data Science honours - Cyber security, IOT, Web analytics and cloud + mobile computing, block chains Mathematics honours - Topology, Complex Analysis, Partial Differential Calculus, Graph Theory and Fluid Mechanics",
+  "career": "Career prospects Data scientists who work with machine learning algorithms to build predictive models Machine learning engineers require solid mathematical foundations to understand and create complex algorithms. Statisticians who would design experiments, surveys, and data collection methods and develop statistical models Quantitative analysts who develop and implement mathematical models to assess financial markets and make investment decisions. Services national and international statistical agencies Entrepreneur in biotechnology and ecological solutions.",
+  "source_url": "https://christuniversity.in/courses/main-campus/school-of-sciences/mathematics/bsc-(data-science,-mathematicshonourshonours-with-research)"
+}

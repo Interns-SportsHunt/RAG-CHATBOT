@@ -1,0 +1,125 @@
+{
+  "course_title": "Master of Science Data Analytics (Interdisciplinary Masters Programme)",
+  "department": "School of Sciences",
+  "campus": [
+    "Bangalore Central Campus"
+  ],
+  "syllabus_link": "https://christuniversity.in/School of Sciences/STATISTICS_AND _DATA_SCIENCE/MSc Data Analytics/syllabusstructure/5629228/2024",
+  "course_structure_link": "https://christuniversity.in/School of Sciences/STATISTICS_AND _DATA_SCIENCE/MSc Data Analytics/syllabusstructure/5629228/2024",
+  "fee_structure": [
+    {
+      "course_code": "MDA131",
+      "course_title": "Principles of Data Analytics",
+      "core/elective/project/abi_lity_enhancement_course": "Core",
+      "fees": "Rs.7000"
+    },
+    {
+      "course_code": "MDA171",
+      "course_title": "Statistical Methods using R",
+      "core/elective/project/abi_lity_enhancement_course": "Core",
+      "fees": "Rs.9000"
+    },
+    {
+      "course_code": "MDA172",
+      "course_title": "Python for Data Analytics",
+      "core/elective/project/abi_lity_enhancement_course": "Core",
+      "fees": "Rs.9000"
+    },
+    {
+      "course_code": "MDA231",
+      "course_title": "Mathematical Foundation for Data Analytics",
+      "core/elective/project/abi_lity_enhancement_course": "Core",
+      "fees": "Rs.7000"
+    },
+    {
+      "course_code": "MDA271",
+      "course_title": "Database Technologies",
+      "core/elective/project/abi_lity_enhancement_course": "Core",
+      "fees": "Rs.9000"
+    },
+    {
+      "course_code": "MDA272",
+      "course_title": "Data Mining",
+      "core/elective/project/abi_lity_enhancement_course": "Core",
+      "fees": "Rs.9000"
+    },
+    {
+      "course_code": "MDA331",
+      "course_title": "Artificial Intelligence",
+      "core/elective/project/abi_lity_enhancement_course": "Core",
+      "fees": "Rs.7000"
+    },
+    {
+      "course_code": "MDA371",
+      "course_title": "Regression Modelling",
+      "core/elective/project/abi_lity_enhancement_course": "Core",
+      "fees": "Rs.9000"
+    },
+    {
+      "course_code": "MDA372",
+      "course_title": "Big Data Analytics",
+      "core/elective/project/abi_lity_enhancement_course": "Core",
+      "fees": "Rs.9000"
+    },
+    {
+      "course_code": "MDA471",
+      "course_title": "Machine Learning",
+      "core/elective/project/abi_lity_enhancement_course": "Core",
+      "fees": "Rs.9000"
+    },
+    {
+      "course_code": "MDA571",
+      "course_title": "Data Visualization",
+      "core/elective/project/abi_lity_enhancement_course": "Core",
+      "fees": "Rs.9000"
+    },
+    {
+      "course_code": "MDA681",
+      "course_title": "Project",
+      "core/elective/project/abi_lity_enhancement_course": "Project",
+      "fees": "Rs.9000"
+    },
+    {
+      "course_code": "MDA472",
+      "course_title": "Natural  Language Processing",
+      "core/elective/project/abi_lity_enhancement_course": "Discipline Specific Elective",
+      "fees": "Rs.9000"
+    },
+    {
+      "course_code": "MDA461",
+      "course_title": "Business Intelligence",
+      "core/elective/project/abi_lity_enhancement_course": "Generic Elective",
+      "fees": "Rs.7000"
+    },
+    {
+      "course_code": "MDA572",
+      "course_title": "Neural Networks and Deep Learning",
+      "core/elective/project/abi_lity_enhancement_course": "Discipline Specific Elective",
+      "fees": "Rs.9000"
+    },
+    {
+      "course_code": "MDA561",
+      "course_title": "Internet of Things",
+      "core/elective/project/abi_lity_enhancement_course": "Generic Elective",
+      "fees": "Rs.7000"
+    },
+    {
+      "course_code": "MDA661",
+      "course_title": "Web Analytics",
+      "core/elective/project/abi_lity_enhancement_course": "Generic Elective",
+      "fees": "Rs.7000"
+    },
+    {
+      "course_code": "MDA662",
+      "course_title": "Cloud Analytics",
+      "core/elective/project/abi_lity_enhancement_course": "Generic Elective",
+      "fees": "Rs.7000"
+    }
+  ],
+  "eligibility": "Class Timings :  Morning : 6:30 AM to 8:30 AM\nPO1: Engage in continuous reflective learning in the context of technology and scientific advancement PO2: Identify the need and scope of the interdisciplinary research PO3: Enhance research culture and uphold the scientific integrity and objectivity PO4: Understand the professional, ethical and social responsibilities PO5: Understand the importance and the judicious use of technology for the sustainability of the environment PO6: Enhance disciplinary competency, employability and leadership skills\nPSO1: Problem analysis and design ability to identify analyze and design solutions for data science problems using fundamental principles of mathematics, statistics, computing sciences, and relevant domain disciplines PSO2: Modern Software Tool Usage: Acquire the skills in handling data science programming tools towards problem solving and solution analysis for domain specific problems PSO3: Societal and Environmental Concern: Utilize the data science theories for societal and environmental concerns PSO4: Professional Ethics: Understand and commit to professional ethics and cyber regulations, responsibilities, and norms of professional computing practices PSO5: Applications in Multi Disciplinary Domains: Understand the role of statistical approaches and apply the same to solve the real life problems in the fields of data science PSO6: Apply the research-based knowledge to analyse and solve advanced problems in data science\nCandidates having 50% aggregate marks from any recognised University in India or abroad recognised by UGC / AIU in any of the following programmes are eligible:\n(i) BE / BTech (All Combinations) (ii) Any BSc with Statistics/Mathematics/Computer Science as major or minor ( minimum 2 semesters) (iii) BSc in Data Science/Data Analytics, or BCA (iv) BA / BCom / BBA with  Mathematics / Business Maths / Data Analytics / Data Science / Statistics / Computer Science\nStudents pursuing an International curriculum must note that eligibility is according to AIU stipulations.",
+  "why_choose": "Why choose this course? Acquire sought-after skills in data analytics, meeting industry demands. Blend of mathematics, statistics, computing, and domain expertise. Convenient class timings for working professionals and graduates. Covering core areas like AI, machine learning, big data, and more. Gain hands-on experience through real-life problem-solving projects. Emphasize professional ethics, societal concerns, and environmental responsibilities.",
+  "what_learn": "What you will learn? Master data analytics principles, statistical methods, and Python programming for comprehensive problem-solving. Develop expertise in mathematical foundations, database technologies, and data mining for robust analytics. Acquire in-depth knowledge of AI, regression modeling, and big data analytics for advanced problem analysis and solution design. Explore machine learning, natural language processing, and data visualization, enhancing skills crucial for modern analytics applications. Apply research-based knowledge in project management, emphasizing professional ethics, cyber regulations, and responsible computing practices. Choose from a range of elective courses, including business intelligence, IoT, web analytics, and cloud analytics",
+  "modules": "Modules Principles of Data Analytics Statistical Methods using R Python for Data Analytics Year 1 Mathematical Foundation for Data Analytics Database Technologies Data Mining Machine Learning Natural Language Processing Data Visualization Year 2 Neural Networks and Deep Learning Business Intelligence Internet of Things",
+  "career": "Career prospects Meet the rising demand for skilled data analysts in various industries.. Unlock opportunities in well-paying roles across industries. Acquire a blend of technical and business-focused analytics skills. Develop expertise to lead in multidisciplinary analytics domains. Gain skills applicable globally in the era of big data and technology. Embrace professional ethics, addressing societal and environmental concerns in data-driven decision-making.",
+  "source_url": "https://christuniversity.in/courses/main-campus/school-of-sciences/statistics_and-_data_science/msc-data-analytics"
+}

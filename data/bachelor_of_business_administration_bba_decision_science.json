@@ -1,0 +1,44 @@
+{
+  "course_title": "Bachelor of Business Administration (BBA) Decision Science",
+  "department": "School of Business and Management",
+  "campus": [
+    "Bangalore Central Campus"
+  ],
+  "syllabus_link": "https://christuniversity.in/School of Business and Management/BUSINESS AND MANAGEMENT/BBA (Decision Science Honours Honours with Research)/syllabusstructure/5629032/2024",
+  "course_structure_link": "https://christuniversity.in/School of Business and Management/BUSINESS AND MANAGEMENT/BBA (Decision Science Honours Honours with Research)/syllabusstructure/5629032/2024",
+  "fee_structure": [
+    {
+      "year": "1",
+      "#karnataka": "250,000 INR",
+      "other_indian_states": "270,000 INR",
+      "nri": "366,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "5,300 USD",
+      "other_foreign_nationals": "5,900 USD",
+      "time_of_payment": "Within seven days of the declaration of the Selection Process Result"
+    },
+    {
+      "year": "2",
+      "#karnataka": "270,000 INR",
+      "other_indian_states": "290,000 INR",
+      "nri": "366,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "5,300 USD",
+      "other_foreign_nationals": "5,900 USD",
+      "time_of_payment": "On or before March 15, 2026"
+    },
+    {
+      "year": "3",
+      "#karnataka": "290,000 INR",
+      "other_indian_states": "310,000 INR",
+      "nri": "366,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "5,300 USD",
+      "other_foreign_nationals": "5,900 USD",
+      "time_of_payment": "On or before March 15, 2027"
+    }
+  ],
+  "eligibility": "A Pass with 60% marks at +2 level in Science or Commerce stream with Mathematics or Statistics or Computer Science as one of the subjects from any Board of Education recognized by UGC/AIU are eligible to apply for this program.\nCandidates writing the +2 examinations in March-May 2025 may apply with their class X and XI marks.\nStudents pursuing International curriculum must note that eligibility is according to AIU stipulations:\nApplicants pursuing IB curriculum must have 3 HL and 3 SL with 24 credits. Applicants pursuing GCE / Edexcel must have a minimum of 3 A levels with a grade not less than C.",
+  "why_choose": "Why choose this course? Multidisciplinary educational path Industry-oriented courses and Project based learning Enhance skills and add value through professional development sessions. Knowledge of business analytics tools Hands-on experience in addressing real-world challenges Guaranteed job placement at Mu Sigma",
+  "what_learn": "What you will learn? Core Business Concepts: Teaches business essentials—Finance, Marketing, HR, Analytics, Programming, and Problem Solving. Focuses on strategy for goal achievement. Communication and networking: The program facilitates student-professional networking, providing insights into job opportunities, industry trends, and best practices. Problem solving and Critical thinking: BBA Decision Science, with critical thinking, molds students into informed, socially aware, and innovative leaders with leadership potential. Decision making acumen: The program builds decision-making skills for independence, responsibility, and confidence, encouraging self-exploration for values. Analytical Skills: BBA Decision Science equips students to dissect complex issues, analyze components, and draw conclusions from data within the program curriculum. Project Management Skills: The programme helps to develop project management skills that can forecast issues, prevent bottlenecks, and make smarter, data-driven decisions.",
+  "modules": "Modules Business Mathematics Problem Solving and Computational Thinking German / Spanish Language Year 1 Data Structures and Algorithm Programming Using Python Data Visualization Data Management (SQL, MongoDB) Data Warehousing and Data Mining Exploratory Data Analysis using R Year 2 Artificial Intelligence in Business Time Series Analysis and Forecasting Web Technologies and Web Intelligence Taxation Laws / Business Laws Text Analytics in Business Applied Data Analytics Year 3 Industry Immersion Internship Capstone Project",
+  "career": "Career prospects Decision Scientist Business Intelligence Analyst Data Analyst Data Engineer Data Architect Machine Learning Engineer",
+  "source_url": "https://christuniversity.in/courses/main-campus/school-of-business-and-management/business-and-management/bba-(decision-science-honours-honours-with-research)"
+}

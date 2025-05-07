@@ -1,0 +1,56 @@
+{
+  "course_title": "Bachelor of Computer Applications (BCA/Honours/Honours with research)",
+  "department": "School of Sciences",
+  "campus": [
+    "Bangalore Central Campus",
+    "Delhi NCR Campus",
+    "Pune Lavasa Campus",
+    "Bangalore Yeshwanthpur Campus"
+  ],
+  "syllabus_link": "https://christuniversity.in/School of Sciences/COMPUTER SCIENCE/BCA (HonoursHonours with Research)/syllabusstructure/5629071/2024",
+  "course_structure_link": "https://christuniversity.in/School of Sciences/COMPUTER SCIENCE/BCA (HonoursHonours with Research)/syllabusstructure/5629071/2024",
+  "fee_structure": [
+    {
+      "year": "1",
+      "#karnataka": "161,000 INR",
+      "other_indian_states": "181000 INR",
+      "nri": "270,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "3,700 USD",
+      "other_foreign_nationals": "4,300 USD",
+      "time_of_payment": "Within seven days of the declaration of the Selection Process Result"
+    },
+    {
+      "year": "2",
+      "#karnataka": "161,000 INR",
+      "other_indian_states": "181,000 INR",
+      "nri": "270,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "3,700 USD",
+      "other_foreign_nationals": "4,300 USD",
+      "time_of_payment": "On or before March 15, 2026"
+    },
+    {
+      "year": "3",
+      "#karnataka": "161,000 INR",
+      "other_indian_states": "181,000 INR",
+      "nri": "270,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "3,700 USD",
+      "other_foreign_nationals": "4,300 USD",
+      "time_of_payment": "On or before March 15, 2027"
+    },
+    {
+      "year": "4",
+      "#karnataka": "210,000 INR",
+      "other_indian_states": "230,000 INR",
+      "nri": "340,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "5,000 USD",
+      "other_foreign_nationals": "6,000 USD",
+      "time_of_payment": "On or before March 15, 2028"
+    }
+  ],
+  "eligibility": "A pass at the +2 level (Karnataka PUC / ISC / CBSE / NIOS / State Boards) from any recognised Board in India.\nCandidates writing the +2 examinations in March-May 2025 may apply with their class X and XI marks.\nStudents pursuing International curriculum must note that eligibility is according to AIU stipulations:\nApplicants pursuing IB curriculum must have 3 HL and 3 SL with 24 credits.\nApplicants pursuing GCE / Edexcel must have a minimum of 3 A levels with a grade not less than C.",
+  "why_choose": "Why choose this course? High Earning Potential and Diverse Career Opportunities Remote Work Opportunities. Strong Foundation in Computer Science and Technology Strong Communication and Collaboration Skills Entrepreneurship and Startup Opportunities Personal Growth and Satisfaction",
+  "what_learn": "What you will learn? Problem-solving skills Wesite development Application development Softskills Continuous learning and research Data Analysis",
+  "modules": "Modules Data Structures Year 1 Programming Languages Algorithms Year 2 Computer Architecture Software Engineering Year 3 Operating System Web Development Year 4 Artificial Intelligence",
+  "career": "Career prospects Software Developer Database Administrator Network Administrator Data Scientist IT Consultant Software Tester Education Government Sector",
+  "source_url": "https://christuniversity.in/courses/main-campus/school-of-sciences/computer-science/bca-(honourshonours-with-research)"
+}

@@ -1,0 +1,53 @@
+{
+  "course_title": "Bachelor of Science (Computer Science, Statistics/Honours/Honours with Research)",
+  "department": "School of Sciences",
+  "campus": [
+    "Bangalore Central Campus"
+  ],
+  "syllabus_link": "https://christuniversity.in/School of Sciences/COMPUTER SCIENCE/BSc (Computer Science, StatisticsHonoursHonours with Research)/syllabusstructure/5629078/2024",
+  "course_structure_link": "https://christuniversity.in/School of Sciences/COMPUTER SCIENCE/BSc (Computer Science, StatisticsHonoursHonours with Research)/syllabusstructure/5629078/2024",
+  "fee_structure": [
+    {
+      "year": "1",
+      "#karnataka": "90,000 INR",
+      "other_indian_states": "110,000 INR",
+      "nri": "160,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "2,200 USD",
+      "other_foreign_nationals": "2,500 USD",
+      "time_of_payment": "Within seven days of the declaration of the Selection Process Result"
+    },
+    {
+      "year": "2",
+      "#karnataka": "90,000 INR",
+      "other_indian_states": "110,000 INR",
+      "nri": "160,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "2,200 USD",
+      "other_foreign_nationals": "2,500 USD",
+      "time_of_payment": "On or before March 15, 2026"
+    },
+    {
+      "year": "3",
+      "#karnataka": "90,000 INR",
+      "other_indian_states": "110,000 INR",
+      "nri": "160,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "2,200 USD",
+      "other_foreign_nationals": "2,500 USD",
+      "time_of_payment": "On or before March 15, 2027"
+    },
+    {
+      "year": "4",
+      "#karnataka": "120,000 INR",
+      "other_indian_states": "140,000 INR",
+      "nri": "200,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "3,000 USD",
+      "other_foreign_nationals": "4,000 USD",
+      "time_of_payment": "On or before March 15, 2028"
+    }
+  ],
+  "eligibility": "",
+  "why_choose": "Why choose this course? To understand fundamental principles of both subjects. Apply the concepts and methods in key areas Learn problem solving, analytical and logical skills. Provide solutions for the scientific requirements. Develop critical thinking. Present the subjects effectively.",
+  "what_learn": "What you will learn? Programming Concepts Algorithm Design Computer Networks Descriptive statistics Inferential statistics Probability theory",
+  "modules": "Modules Discrete Statistics Programming concepts Computational Statistics Year 1 Computer Fundamentals Statistical Inference Regression Modelling Web and Mobile Application Development Year 2 Web and Mobile Application Development Survival Analysis Time Series Analysis and Forecasting Design and Analysis of Algorithm Year 3 Projects Cloud Computing and Artificial Intelligence Computer Science Honors Internet of Things Research Oriented Courses Year 4 Data Mining and Data warehousing Computer Vision UI/UX Machine learning",
+  "career": "Career prospects Technology: Software development , data science, machine learning, cybersecurity, IT consulting Finance: Quantitative finance, risk management, investment banking, financial modelling Academia: Research, teaching, data analysis Healthcare: Medical imaging analysis, clinical research, drug discovery Business: Business intelligence, data analytics, marketing analytics, supply chain management.",
+  "source_url": "https://christuniversity.in/courses/main-campus/school-of-sciences/computer-science/bsc-(computer-science,-statisticshonourshonours-with-research)"
+}

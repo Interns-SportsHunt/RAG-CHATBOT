@@ -1,0 +1,53 @@
+{
+  "course_title": "Bachelor of Technology (Computer Science and Engineering - Data Science)",
+  "department": "School of Engineering and Technology",
+  "campus": [
+    "Bangalore Kengeri Campus"
+  ],
+  "syllabus_link": "https://christuniversity.in/School of Engineering and Technology/COMPUTER SCIENCE AND ENGINEERING/BTech in Data Science/syllabusstructure/5674441/2024",
+  "course_structure_link": "https://christuniversity.in/School of Engineering and Technology/COMPUTER SCIENCE AND ENGINEERING/BTech in Data Science/syllabusstructure/5674441/2024",
+  "fee_structure": [
+    {
+      "year": "1",
+      "#karnataka": "252,000 INR",
+      "other_indian_states": "272,000 INR",
+      "nri": "360,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "5,200 USD",
+      "other_foreign_nationals": "5,800 USD",
+      "time_of_payment": "Within seven days of declaration of the Selection Process Result"
+    },
+    {
+      "year": "2",
+      "#karnataka": "252,000 INR",
+      "other_indian_states": "272,000 INR",
+      "nri": "360,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "5,200 USD",
+      "other_foreign_nationals": "5,800 USD",
+      "time_of_payment": "On or before March 15, 2026"
+    },
+    {
+      "year": "3",
+      "#karnataka": "272,000 INR",
+      "other_indian_states": "292,000 INR",
+      "nri": "390,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "5,700 USD",
+      "other_foreign_nationals": "6,300 USD",
+      "time_of_payment": "On or before March 15, 2027"
+    },
+    {
+      "year": "4",
+      "#karnataka": "272,000 INR",
+      "other_indian_states": "292,000 INR",
+      "nri": "390,000 INR",
+      "saarc_/_africa_/_pio_/_oci_/_asean": "5,700 USD",
+      "other_foreign_nationals": "6,300 USD",
+      "time_of_payment": "On or before March 15, 2028"
+    }
+  ],
+  "eligibility": "Data Science : To utilize Data Science principles to formulate the appropriate solutions for the real world problems Data Analytics : To assess the models of data analysis, quality of inputs and investigate the issues. Service Learning : Analyze Social Relevant Problems and design solutions through Service Learning",
+  "why_choose": "Why choose this course? Dedicated laboratories for data science research. Abroad university exchange programs Data Science student clubs associated seminars and conferences Industry Tie-ups for internships, project work and for placements. Industry 4.0 Curriculum to match with recent frameworks. Exclusive domain expert faculty members",
+  "what_learn": "What you will learn? Students will learn how to write code in various programming languages like Python, R, understand data structures, and design algorithms used in data science. Understanding of different types of databases, SQL, NoSQL, and database management. Familiarity with technologies like Hadoop, Spark, and related distributed computing systems. Students would likely learn about data manipulation, statistical analysis, and data visualization techniques using tools such as IBM’s SPSS and Tableau. Gaining skills in web technologies, such as HTML, CSS, JavaScript, and server-side scripting. This includes building dynamic web applications. Practical experience in solving real-world problems using data science and engineering techniques. Skills related to managing data science projects and working in teams.",
+  "modules": "Modules Basic Sciences Holistic Education Technical English skills Year 1 Computer Programming language Engineering Graphics Statistical foundations for Data Analytics Data Structure concepts Year 2 Operating Systems Database Management Systems Python for Data Science Mini Project + Internships (Data Science Specific) Business Intelligence Year 3 Artificial Intelligence Big Data Analytics Program Electives Project+ Internships/Seminars (Data Science Specific) Web Analytics Year 4 Open Electives Program Electives",
+  "career": "Career prospects Data science researchers contribute to advancing technology and applications in academia or research institutions. Data Visualization techniques and interdisciplinary work leading to initiation of start-up / entrepreneurship. The earning potential and salary ranges associated with a Data Science profession or industry is enormous. Data scientists gather, clean, and analyze data to extract valuable insights, aiding organizations in informed decision-making, often employing statistical and machine learning techniques. ML and AI models perform data-driven tasks like image recognition, predictive modeling, natural language processing, computer vision, and decision-making.. Data engineering spawns various data scientist roles: Forensic, Business, Sports, Healthcare, Environmental, Government, Marketing, etc.",
+  "source_url": "https://christuniversity.in/courses/bangalore-kengeri-campus/school-of-engineering-and-technology/computer-science-and-engineering/btech-in-data-science"
+}
